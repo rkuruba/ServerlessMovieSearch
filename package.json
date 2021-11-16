@@ -20,7 +20,7 @@
   "homepage": "https://github.com/rkuruba/ServerlessMovieSearch#readme",
   "dependencies": {
     "aws-cli": "0.0.2",
-    "aws-sdk": "^2.474.0",
+    "aws-sdk": "^2.814.0",
     "request": "^2.88.0"
   }
 }
